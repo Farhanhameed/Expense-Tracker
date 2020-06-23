@@ -1,4 +1,4 @@
-import { Transaction } from "../components/Transaction";
+// import { Transaction } from "../components/Transaction";
 
 export default (state, action) => {
     switch(action.type){
